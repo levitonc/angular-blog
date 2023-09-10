@@ -19,7 +19,11 @@
   font-size: larger;
   margin-left: 20px;
 }
-
+.content-little-card>a>p{
+  margin-top: 20px;
+  font-size: larger;
+  margin-left: 20px;
+}
 
 
 
