@@ -1,1 +1,17 @@
-<p>little-card works!</p>
+<div class="container-little-card">
+
+
+
+  <div class="image-little-card">
+    <img src="{{ imageCover }}" alt="">
+
+
+  </div>
+  <div class="content-little-card">
+
+    <p class="date">{{ textTittle }}</p>
+    <a [routerLink]="['content', Id]"><p class="text">{{ textDescription }}</p></a>
+  </div>
+
+</div>
+<hr>

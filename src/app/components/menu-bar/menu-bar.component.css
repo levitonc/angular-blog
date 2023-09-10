@@ -1,0 +1,12 @@
+
+
+.container-menu-bar>ul{
+  display: flex;
+  flex-direction: row;
+
+}
+.container-menu-bar>ul>li{
+  font-size: larger;
+  margin-right: 20px;
+  list-style: none;
+}
